@@ -1,0 +1,14 @@
+.joke {
+    background-color: rgb(252, 252, 252);
+    border: solid #999;
+    border-width: 1px 1px 0px 1px;
+    padding-top: 10px;
+}
+
+.joke:last-child {
+    border-bottom: 1px solid #999;
+}
+
+span {
+    margin: 0 5px;
+}
